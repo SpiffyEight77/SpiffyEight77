@@ -10,14 +10,14 @@
 </p> -->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Debian-CE0058?style=flat-square&logo=Debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=Go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=Neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-%23F05138.svg?style=for-the-badge&logo=Swift&logoColor=white" />
 </div>
 
 <!-- <p align="center">
