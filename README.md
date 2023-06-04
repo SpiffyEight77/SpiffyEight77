@@ -1,5 +1,5 @@
 <p align="center">
-  <samp>👋🏻 Hello there. I'm <a href="https://github.com/SpiffyEight77" target="_blank" rel="noopener">SpiffyEight77</a>.<br />I'm a software engineer. Learning Japanese recently. Coding for fun.<br />You can find me in <a href="https://www.spiffyeight77.com" target="_blank" rel="noopener">Blog(Chinese)</a>. </samp>
+  <samp>👋🏻 Hello there. I'm <a href="https://github.com/SpiffyEight77" target="_blank" rel="noopener">SpiffyEight77</a>.<br />I'm a software engineer. Learning Japanese recently. Coding for fun.<br />You can find me in <a href="https://spiffyeight77.com" target="_blank" rel="noopener">Blog</a>. </samp>
   <br />
   <br />
   <img src="https://img.spiffyeight77.com/config/5A6CC2A02D3408424EF13FABB0DBB178.gif" alt="nichijou" />
