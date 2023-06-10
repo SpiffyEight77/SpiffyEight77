@@ -1,13 +1,14 @@
 <p align="center">
   <samp>👋🏻 Hello there. I'm <a href="https://github.com/SpiffyEight77" target="_blank" rel="noopener">SpiffyEight77</a>.<br />I'm a software engineer. Learning Japanese recently. Coding for fun.<br />You can find me in <a href="https://spiffyeight77.com" target="_blank" rel="noopener">Blog</a>. </samp>
   <br />
-  <br />
-  <img src="https://img.spiffyeight77.com/config/5A6CC2A02D3408424EF13FABB0DBB178.gif" alt="nichijou" />
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SpiffyEight77/SpiffyEight77/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SpiffyEight77/SpiffyEight77/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SpiffyEight77/SpiffyEight77/output/github-contribution-grid-snake.svg" />
+</picture>
+  
 </p>
-
-<!-- <p align="center">
-  <samp>My Language and tools:</samp>
-</p> -->
 
 <div align="center">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
@@ -19,7 +20,3 @@
 <!--   <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Swift-%23F05138.svg?style=for-the-badge&logo=Swift&logoColor=white" />
 </div>
-
-<!-- <p align="center">
-  <samp>Contact me:</samp>
-</p> -->
